@@ -32,20 +32,19 @@ client inquiry contact via a collapsible navigation bar. It utilizes the Bootstr
 - Individual pages for index, image gallery, and client communication.
 
 - Employs "text-nowrap" to include text with corresponding image and "mdb-lightbox" to frame gallery images:
-  ![code_Snippet.1](assets\images\code_Snippet.1.png)
-
+  ![code_Snippet.1](https://github.com/ajhuff7/portfolio-one/blob/master/assets/images/code_Snippet.1.png)
 
 - Responsive designs ensure image gallery optimal sizing... 
-![media_Q.1](assets\images\media_Q.1.JPG)
+![media_Q.1](https://github.com/ajhuff7/portfolio-one/blob/master/assets/images/media_Q.1.JPG)
 
 
 - ... and active text box links navigate user to desired locations:
 
-  ![response.1](assets\images\response.1.JPG)
+  ![response.1](https://github.com/ajhuff7/portfolio-one/blob/master/assets/images/response.1.JPG)
 
 
 - Collapsible navigation bar to maintain functionality minimized displays:
-![media_Q.3](assets\images\media_Q.3.JPG)
+![media_Q.3](https://github.com/ajhuff7/portfolio-one/blob/master/assets/images/media_Q.3.JPG)
 
 ## Deployed Link
 
