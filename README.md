@@ -1,32 +1,42 @@
 # Portfolio-One
 
-The refactor of Horiseon's Social Solutions Services site was completed to update all accessibility standards and confirm search engine compatibility. Meeting accessibility standards will ensure compliance with ADA rules and regulations.
+A responsive designed portfolio site with internal linked pages for Home/Info, Portfolio Images, and
+client inquiry contact via a collapsible navigation bar. It utilizes the Bootstrap grid system, incorporates accessibility standards, and is built to reduce media queries.
 
----
+## Table of Contents
 
-### Code Updates
+[Tech Used](#tech_used)
+[Usage](#usage)
+[Features](#features)
+[Deployed_Link](#deployed_link)
+[Author](#author)
+[Credit](#credit)
+[License](#license)
 
-The following updates were completed to ensure accessibilty and compliance.
+----
 
-1. Page title was updated to be more specific.
+# Tech Used
 
-```
-- "Website" updated to "Horiseon - Social Solutions Services".
-```
+# Usage
 
+# Features
+
+- "Website" updated to "Horiseon - Social Solutions Services"
 2. Tags were updated with semantic HTML to be more specific.
-
-```
 - Dividing "div" tag was updated to "header".
 - Dividing "div" tag was updated to "section".
 - Dividing "div" tag was updated to "aside".
-```
-
 3. Added alt ids to all images to improve accessibility issue.
-
-```
 - Images were updated with image descriptive ids.
-```
+
+# Deployed Link
+
+# Author
+
+# Credit
+
+# License
+
 
 ![Highlighted_Updates](https://github.com/ajhuff7/refactor-code/blob/master/assets/images/refactor_img.JPG)
 
