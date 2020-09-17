@@ -31,7 +31,8 @@ client inquiry contact via a collapsible navigation bar. It utilizes the Bootstr
 - Semantic HTML elements (including "nav", "figure", and "form") and Alt IDs to guide specific code interpretation.
 - Individual pages for index, image gallery, and client communication.
 
-- Employs "text-nowrap" to include text with corresponding image and "mdb-lightbox" to frame gallery images:
+- Employs "text-nowrap" to arrange text and thumb and s "mdb-lightbox" to frame images:
+
   ![code_Snippet.1](https://github.com/ajhuff7/portfolio-one/blob/master/assets/images/code_Snippet.1.png)
 
 - Responsive designs ensure image gallery optimal sizing... 
